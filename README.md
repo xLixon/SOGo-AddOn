@@ -1,7 +1,7 @@
 ### SOGo SSO API Benutzerhandbuch
 
 Dieses Dokument beschreibt die Nutzung der bereitgestellten SOGo SSO API-Endpunkte `sogo-auth.php` und `sogo-tokengenerate.php`. Diese API ermöglicht die Authentifizierung und Tokenverwaltung für Benutzer im Zusammenhang mit dem SOGo-Dienst.
-
+Sie finden die Anleitung auch nochmals als PDF
 ---
 #### Installation
 Laden Sie einfach das Script `sogo_addon_installer.sh` auf Ihren Server und führen Sie `sudo bash sogo_addon_installer.sh /PFAD/ZU/MAILCOW` aus.
